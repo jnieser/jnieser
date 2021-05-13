@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiayang Nie.
-- 👀 I’m interested in data science, machine learning and statistical analysis such as Bayesian Hieartical model.
+- 👀 I’m interested in data science, machine learning and statistical analysis such as Bayesian Hieartical model, and their usage in quantitative finance.
 - 📫 Niejiayang32@gmail.com
 
 <!---
