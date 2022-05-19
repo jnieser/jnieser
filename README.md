@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiayang Nie.
-- 👀 I’m interested in data science, machine learning and statistical analysis.
+- 👀 I’m interested in causal inference, machine learning, and computer vision.
 - 📫 Niejiayang32@gmail.com
 
 <!---
